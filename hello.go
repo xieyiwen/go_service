@@ -23,7 +23,7 @@ package main
 @Description :
 */
 
-// Say Hello
+// HelloWorld Say Hello
 func HelloWorld() string {
 	return "hello world"
 }
